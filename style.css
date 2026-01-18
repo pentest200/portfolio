@@ -206,13 +206,13 @@ nav a:hover {
   border: 2px solid transparent;
 }
 
-#weather {
+#projLink {
   color: #a0a0a0;
   text-decoration: none;
 }
 
-#weather:hover {
-  color: #fff;
+.skill:hover a {
+  color: #ffffff !important;
 }
 
 .skill-card:hover {
